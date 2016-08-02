@@ -1,4 +1,6 @@
 # HelloWorld
+Inserted Text Here
 My First Repository
 
-These are changes made to the master...
+Hello World - this is a conflicted merge?
+Bye
